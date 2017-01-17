@@ -12,12 +12,16 @@
 <link rel='stylesheet' href='./wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.7.1' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="./wp-content/uploads/2017/01/cropped-myselfThumbnailBig-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="./wp-content/uploads/2017/01/cropped-myselfThumbnailBig-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="./wp-content/uploads/2017/01/cropped-myselfThumbnailBig-180x180.jpg" />
+<meta name="msapplication-TileImage" content="./wp-content/uploads/2017/01/cropped-myselfThumbnailBig-270x270.jpg" />
+	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-gb">
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Tobias Mayr</a></h1>
 	
-<form name="loginform" id="loginform" action="./wp-login.php" method="post">
+<form name="loginform" id="loginform" action="./" method="post">
 	<p>
 		<label for="user_login">Username or Email Address<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -35,7 +39,7 @@
 </form>
 
 <p id="nav">
-	<a href="./wp-login.php?action=lostpassword">Lost your password?</a>
+	<a href="./?action=lostpassword">Lost your password?</a>
 </p>
 
 <script type="text/javascript">
