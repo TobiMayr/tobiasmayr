@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Online CV and Showcase</description>
-	<lastBuildDate>Tue, 17 Jan 2017 03:48:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jan 2017 04:55:39 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,14 +31,14 @@
 		<comments>./../../../2017/01/15/hello-world/index.html#respond</comments>
 		<pubDate>Sun, 15 Jan 2017 23:54:05 +0000</pubDate>
 		<dc:creator><![CDATA[tobiasmayradmin]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[About Me]]></category>
 		<category><![CDATA[about me]]></category>
 		<category><![CDATA[Introduction]]></category>
 
 		<guid isPermaLink="false">./../../../../index.html?p=1</guid>
 		<description><![CDATA[I just started this Website using WordPress and hosting it free on GitHub! I plan to eventually get it running on a Raspberry Pi and make it less static. I primarily created this site to have all of my relevant internet content at one central place&#8230;well not really&#8230;mostly because I wanted to see my name <a href="./../../../2017/01/15/hello-world/index.html" rel="nofollow"><span class="sr-only">Read more about Hello world!</span>[...]</a>]]></description>
 				<content:encoded><![CDATA[<p>I just started this Website using WordPress and hosting it free on GitHub! I plan to eventually get it running on a Raspberry Pi and make it less static.</p>
-<p>I primarily created this site to have all of my relevant internet content at one central place&#8230;well not really&#8230;mostly because I wanted to see my name written out on a .com-domain&#8230; I will hopefully get to provide some useful information <img src="https://s.w.org/images/core/emoji/2.2.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>I primarily created this site to have all of my relevant internet content at one central place&#8230;well not really&#8230;mostly because I wanted to see my name written out on a .com-domain&#8230; I will hopefully get to provide some useful information in the future <img src="https://s.w.org/images/core/emoji/2.2.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>Lets start off with a picture of myself! (This is going to be fun!)</p>
 <p><img class="alignnone size-large wp-image-58" src="./../../../../wp-content/uploads/2017/01/myself-1024x440.jpg" alt="man in uyuni salt flat" width="640" height="275" srcset="./../../../../wp-content/uploads/2017/01/myself-1024x440.jpg 1024w, ./../../../../wp-content/uploads/2017/01/myself-300x129.jpg 300w, ./../../../../wp-content/uploads/2017/01/myself-768x330.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" /></p>
 ]]></content:encoded>

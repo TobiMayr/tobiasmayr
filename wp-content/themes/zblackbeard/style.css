@@ -118,7 +118,7 @@ h2.white-text {
     background: rgba(59,187,210,1) !important;
 }
 .intro-text {
-	background: rgba(51,67,70,0.3) !important;
+	/*background: rgba(51,67,70,0.3) !important; //deleted background shade TOBI*/
 	padding: 15px 0;
 }
 .testimonial {
